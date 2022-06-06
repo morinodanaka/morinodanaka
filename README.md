@@ -1,6 +1,6 @@
 • Over 9+ years of IT experience involved in various stages of the Software Development Life Cycle (SDLC) from requirements gathering, analysis, modeling, design, development, enhancement, test, and production as a FullStack Developer.
 
-• Especially strong at React/React Native/JavaScript/TypeScript/HTML/CSS/Node/AWS
+• Especially strong at React/React Native/JavaScript/TypeScript/HTML/CSS/Node/Python/AWS
 • Strong developing experience with HTML, DHTML, CSS and JavaScript.
 • Good experience developing API’S on NodeJs and Express.
 • Completely familiar with Databases like PostgreSQL, MySQL and MongoDB with experiences of database design.
